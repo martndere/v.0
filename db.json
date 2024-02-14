@@ -1,0 +1,27 @@
+{
+    "events": [
+        {
+            "date": "Dinner",
+            "genre": "Classy, Chill, Laughter",
+            "connoisseur": "Martin Ndere",
+            "image": "https://lh3.googleusercontent.com/pw/ABLVV84oRD2ecrMs-ZYFAJSJBkdZtIVRs3bAzDayvQyMewcjBv7J-G0wdU0931TfBGVlzGFyR7SYWzai6-QkUqLxCIOcexHKrMHsrBkXdjv7z921QGHzNcpYmyM1B_17qhVqHuBy6r7yKsMp3FwsISXrfGBbUDQp2OdAEErxw_ANrJMJzxBtABwbvt3mhhJ94Pql-H789f9iBK8ShLOmqKohdj1YuP6syC6u6QbxEpLTIM9v9U3vIGdaKiXu8i4Olcao6l1oBOxcycneRM1vaY-vrJk4wrQIrowPjH5KlwC-FPRxeqjfxJ5V4Eufu4MEdF8h6SPWjjrq0yZ0sFqCBxW9H02-hjUBER-nNZ6xt8vAlVM07PxIpkgnmuvt2VHwtNkLSr9jv0hFTw8AfwvdJYoRQ4h-oMx1Zsf6XqaAzeGZ_kegFJ4G2nySdQtOWDHd25KsNtabSqA7CJ-b54slM0xkjG7oyhrq6FCeT07trnzfA9uwwxKzpbQ3faU6Td5UnYulwFDmb9xgqSHEQPZF5CKfTJDPWcSGzy4g1z-jJQZEgekzr9vhxICVEZQSZ_F5faHtDS_MSNg41ONDbfkArwL1JYbMVxwq4Xq4h08ow-7bc8v1EF1dTIViuIhy_q9NEVOiIQUYkU_-yI1_qNBBVSGfwtAVGkUoUpff3B1uupUsxYdJglzOfhUnHLIwmBbMEdBdpGEuSV2EfqItkVZWWPPcC9sgG5NRHltRmWSzNJHhMrDTip25RiSaLhJd-wyyD8gJSWuO22nVfMHkA0neP2kTPe5UDmvbzDHvkwIsDzivTvspQ6qJUYXFrbJZbiq4hD4mHpflt_KWzcb8Cn57Kbwy78e7qNtqN8j88if0jIoWqEktamqLmDVR5sOjyAk6VPdHe4HQj1QbstNgxS-Wmftl2uE70WQt=w160-h213-no?authuser=0"
+        ,
+            "youtubeVideoID": "https://youtu.be/p5QOQprcXmA"
+
+        },
+        {
+            "date": "Gamenight",
+            "genre": "It's going to be fun bro, Chill",
+            "connoisseur": "Martin Ndere",
+            "image": "https://lh3.googleusercontent.com/pw/ABLVV845zUOmTC3SNFz22Y-SW1N59ROMwI3HAHS3VTxDibO3AJWU9h9BufHkQiGzDhtuGsI9kQIg1y5PCfl8xr-AptToIfcT8Jkd2dRlOKPZ3iL4BesnpeLsbtnP3L0OMjvs1eFyD7J_683RfCg5jQ3hKUEzdOtjq9cyR_HD2J7yvYiXpTMqohGt6QV_upkUQqSzzIOoCRzyY7FDNRjNTswyvN8rWa3UP5w0UfcHpxOhHiuNAMeHPND-deWEI_wvtZUiF5XkWjyVWB41wDt33KOwbVVxc8SxRLzW6m4m5gf5M083gjpvEon1lMgfglUGMmSSlAHoaL-jyFK7sfgSNGOXvzo4lDl4i-SAdh3sRQGYcQyIRxBpo7-2y6eUxnToHtlHCotFgHkhArGh7dsh-kw8OtuWWUit4HA3b4amwDoXXsfGpXEidF6hEvD97VULHCCnPOlepmEonJ8UBK89MCMt77Yhk4Me5S4_CKL5mRTEViMEUGA0LBAAMHhlxi1DfqBHL28IeZSFPKpTlCcZclrlD8U2N51_K7mhSLm4BRmGlbZCjadetElaXUiHvF8UJLLtQBMpr-r43QmZGmc-8LNJxJzOaKk9gZ3bz0BzO3Nwdaxgdpce1KG8ksBhh7KA_NvhCUYuSKtaUGVORSKcN1vYEVCRAgRVBapqgB97jmlVC3uBT9DzO83jnW6pAQHVwabS7gnnmbJtU39lHd9WRSMqj5Q0_D0lWUjh0g1K-GJKyRFWS2gvBHFboCaFvu-KLpKJdgA4ArtZDI0_QCbaX1zQXpCCwHbUvz1Ts-iZ3tj7MwiNKxig4bHQBuh0lcLaXD8BeQhutbxHmfuik5V_RHZsQev6aWRn1VGc0npmQy3ZtKT_MXjWDRDiOKAB4S1uEoT5jZiqAteaAb5bQd1_Ry07kbNRg1B-=w659-h879-s-no-gm?authuser=0"
+        },
+        {
+            "date": "Home N Chill",
+            "genre": "I mean ni fun but we do this everyday",
+            "connoisseur": "Martin Ndere",
+            "image": "https://lh3.googleusercontent.com/pw/ABLVV85Xb1Kd0ueYKMXE4FjHPfOythPm9_U5hnoRv9xwuKclnA0m-Wx0iDusqf8hkplRiX1sCyzk-vV_qmU29H4GRiTHUsc5AFwKbq4bFU7RgSH37p8YJNr8oCf9rUdwcjSivJpK7wJUh_pFAxnIo9TdlH7c2oNoCdE7CGkKgkRKRzSswBGwhA-hgjxcCooiIspE_JyjkYygqxbYhzyRGi_8tTvOY2rKNgMNRo8SG0bKx3a-27B1i2oWZoPayQnhNcUs6RH4EUO8-Y-qQ3EtDFcX1ifgOr43E2_CClvRHiKlMXwmag_BKKWEmogZ9bNMV4pO0HJ8DuPmjepm47fx2H8TLG3BKJWtdApjQ1Lw-9COwgGdPz2tBhuQmOhv1ncvgb7l_2Hb6jWrESpiv8hXJCWlreKOXAoAxMVDg0g92k2cuBIFdBT3N9Z6_JsjibKbB5_H4hnz72oPONJF_MsNd9zzQwFQbAflJnEJTL6GDs5m049-fYgJQqkT8eV1qrDW-rKfCjb_9rkKooN_Sw40FMKdvVK3oJe5m5T6SS6uBdOUkvHp9rrJamTkS8T5cf1i9LUn0AgPu5Vg69onG3_HEb48dRTFQN8Yqgbb_g8Az1YT9kHnQD0HTZJzkC3buG4qgh87HQ4111FlxWIFf-ci3zWsF2DUxGn3J26kPjyWYXMUGhxcgfOyrFZHlthYut4NcL9r6FMxNfVqPgq6Q-b4etikSDQyXk3hbF0zbjywlMEt2GRvakXZgWHFP7UWfyg0g8nPENqyiQunqaCs6ngaKNa6Gvn4igAayVNaShriDXj0OzgNGWcM2Q3uBX9v1ymA5r_gSFnTBnp1gId6yNNKTtvo3wCjXk51vAXpZ4czDBKOERqdmgEM_yhisZZgG5hmEu4VwGIdcdYlT78xkjhRRJpMgb4NrxYZ=w494-h879-s-no-gm?authuser=0"
+        }
+    ],
+    "youtubeVideoID": "https://youtu.be/p5QOQprcXmA"
+    
+}
